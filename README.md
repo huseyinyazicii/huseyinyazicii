@@ -17,11 +17,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
 ## 🔍  Where to find me
 ###### [![Linkedin: Hüseyin Yazıcı](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hüseyin-yazıcı-14b803201//)]([https://www.linkedin.com/in/halit-enes-kalayc%C4%B1-7a19a7189](https://www.linkedin.com/in/hüseyin-yazıcı-14b803201)/) [![GitHub huseyinyazicii](https://img.shields.io/github/followers/huseyinyazicii?label=follow&style=social)](https://github.com/huseyinyazicii) 
-
+<!--
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=huseyinyazicii)
 ![stats](https://github-readme-stats.vercel.app/api?username=huseyinyazicii&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-<!--
+
 **Sanchklyc/Sanchklyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
