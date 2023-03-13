@@ -16,7 +16,9 @@
 ![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
 ## 🔍  Where to find me
-###### [![Linkedin: Hüseyin Yazıcı](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hüseyin-yazıcı-14b803201](https://www.linkedin.com/in/hüseyin-yazıcı-14b803201)/) [![GitHub huseyinyazicii](https://img.shields.io/github/followers/huseyinyazicii?label=follow&style=social)](https://github.com/huseyinyazicii) 
+###### 
+[![Linkedin: Hüseyin Yazıcı](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hüseyin-yazıcı-14b803201//)](https://www.linkedin.com/in/hüseyin-yazıcı-14b803201) 
+[![GitHub huseyinyazicii](https://img.shields.io/github/followers/huseyinyazicii?label=follow&style=social)](https://github.com/huseyinyazicii) 
 <!--
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=huseyinyazicii)
