@@ -1,6 +1,5 @@
 ### Hi there 👋
 ###### 📫 How to reach me: huseyinyazici128@gmail.com
-#### 🧑‍💻 Technologies
 ![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
